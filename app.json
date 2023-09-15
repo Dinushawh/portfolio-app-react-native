@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "Dinusha-portfolio",
+    "slug": "Dinusha-portfolio",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/AppIcons/Assets.xcassets/AppIcon.appiconset/1024.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/AppIcons/Assets.xcassets/AppIcon.appiconset/1024.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#000000"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "favicon": "./assets/AppIcons/Assets.xcassets/AppIcon.appiconset/1024.png"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/AppIcons/Assets.xcassets/AppIcon.appiconset/1024.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.dinushax.Dinushaportfolio"
+    },
+    "web": {
+      "favicon": "./assets/AppIcons/Assets.xcassets/AppIcon.appiconset/1024.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "d9322af8-472e-4d41-b131-5bd4ddf2797d"
+      }
+    }
+  }
+}
