@@ -67,7 +67,6 @@ export default function DetailsScreen() {
           source={require("./assets/icons/icons8-tensorflow-48.png")}
         />
       </View>
-
       <View style={styles.flexx}>
         <View
           style={{

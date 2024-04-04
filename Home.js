@@ -43,7 +43,6 @@ export default function Home({ navigation }) {
           source={require("./assets/icons8-whatsapp-50.png")}
         />
       </View>
-
       <StatusBar style="auto" />
     </View>
   );
